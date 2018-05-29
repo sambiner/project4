@@ -3,7 +3,7 @@ body {
 	color: yellow;
 	background-color: red;
 	border: 2px solid #FFFF00;
-	
+	cursor: url(images/too693.cur), auto;
 }
 .grid {
 	display: grid;
